@@ -1,7 +1,7 @@
 Gh0st
 =====
-This repository contains the source code of Gh0st, a well-known RAT (Remote Administration Tool).
-I found this code on the Internet, and I uploaded it within a learning purpose.
+This repository contains the source code of Gh0st, a well-known RAT (Remote Administration Tool).  
+I found this code on the Internet, and I uploaded it within a learning purpose.  
 
 Source:
 
